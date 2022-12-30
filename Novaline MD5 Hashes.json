@@ -14,5 +14,12 @@
     "1.11": {
         "exe": "63ab9a3f5d5f99c8a3dc2340c82d6e2e",
         "zip": "ef841fe143a4dd59041e61942744dac5"
+    },
+    "2.0": {
+        "exe": "6f5026c26a168b9e0fbf66e1ef98c80d",
+        "zip": "5bc33bd77d65e29921f70bd945b4b0ed"
+    },
+    "2.1": {
+        "exe": "53bd04b6bfa51d3a56dcbf452ac54251"
     }
 }
